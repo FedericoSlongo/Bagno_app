@@ -1,0 +1,14 @@
+adaptive-icon;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher_round.xml
+background;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\net6.0-android\res\layout\activity_main.xml
+color;obj\Debug\net6.0-android\res\values\ic_launcher_background.xml
+EditText;obj\Debug\net6.0-android\res\layout\activity_main.xml
+foreground;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\net6.0-android\res\mipmap-anydpi-v26\ic_launcher_round.xml
+RelativeLayout;obj\Debug\net6.0-android\res\layout\activity_main.xml
+resources;obj\Debug\net6.0-android\res\values\ic_launcher_background.xml
+resources;obj\Debug\net6.0-android\res\values\strings.xml
+string;obj\Debug\net6.0-android\res\values\strings.xml
+TextView;obj\Debug\net6.0-android\res\layout\activity_main.xml

@@ -1,0 +1,3 @@
+Bagno_app.MainActivity, Bagno app;crc6448468ad81dd4872b.MainActivity
+Bagno_app.MainActivity;crc6448468ad81dd4872b.MainActivity
+bagno_app.MainActivity;crc6448468ad81dd4872b.MainActivity
