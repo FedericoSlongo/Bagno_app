@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wIMUPUWPVi2Ffy6nAYw2jMSiDcQZ+gH+UvLXtnHeoDfq1x1IkF4VLXLwIFAM+2WJ4z9+Y4j1Zy3iotPJNFBVAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\feder\\source\\repos\\Bagno app\\Bagno app\\Bagno app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\feder\\.nuget\\packages\\system.data.sqlclient\\4.8.4\\system.data.sqlclient.4.8.4.nupkg.sha512"
+  ],
+  "logs": []
+}
